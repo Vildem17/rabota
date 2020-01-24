@@ -1,0 +1,26 @@
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/bin/Debug/netcoreapp3.0/HotelAdmin
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/bin/Debug/netcoreapp3.0/HotelAdmin.deps.json
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/bin/Debug/netcoreapp3.0/HotelAdmin.runtimeconfig.json
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/bin/Debug/netcoreapp3.0/HotelAdmin.runtimeconfig.dev.json
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/bin/Debug/netcoreapp3.0/HotelAdmin.dll
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/bin/Debug/netcoreapp3.0/HotelAdmin.pdb
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/obj/Debug/netcoreapp3.0/HotelAdmin.csprojAssemblyReference.cache
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/obj/Debug/netcoreapp3.0/HotelAdmin.AssemblyInfoInputs.cache
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/obj/Debug/netcoreapp3.0/HotelAdmin.AssemblyInfo.cs
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/obj/Debug/netcoreapp3.0/HotelAdmin.dll
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/obj/Debug/netcoreapp3.0/HotelAdmin.pdb
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/nosovsergej/RiderProjects/HotelAdmin/HotelAdmin/obj/Debug/netcoreapp3.0/HotelAdmin.csproj.CopyComplete
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\bin\Debug\netcoreapp3.0\HotelAdmin.exe
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\bin\Debug\netcoreapp3.0\HotelAdmin.deps.json
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\bin\Debug\netcoreapp3.0\HotelAdmin.runtimeconfig.json
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\bin\Debug\netcoreapp3.0\HotelAdmin.runtimeconfig.dev.json
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\bin\Debug\netcoreapp3.0\HotelAdmin.dll
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\bin\Debug\netcoreapp3.0\HotelAdmin.pdb
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\obj\Debug\netcoreapp3.0\HotelAdmin.csprojAssemblyReference.cache
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\obj\Debug\netcoreapp3.0\HotelAdmin.AssemblyInfoInputs.cache
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\obj\Debug\netcoreapp3.0\HotelAdmin.AssemblyInfo.cs
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\obj\Debug\netcoreapp3.0\HotelAdmin.csproj.CopyComplete
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\obj\Debug\netcoreapp3.0\HotelAdmin.dll
+C:\Users\Shatcung\Desktop\курсач Рома\HotelAdmin\HotelAdmin\HotelAdmin\obj\Debug\netcoreapp3.0\HotelAdmin.pdb

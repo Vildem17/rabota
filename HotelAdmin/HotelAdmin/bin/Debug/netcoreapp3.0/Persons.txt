@@ -1,0 +1,1 @@
+[{"fio":"fk gf pt","phone":"89889429566","passport":"6015750678","hotelName":"Шератон","FinalPrice":3000,"typeNumber":"Эконом"},{"fio":"f g o","phone":"89889429566","passport":"6014756890","hotelName":"Шератон","FinalPrice":4000,"typeNumber":"Эконом"}]
